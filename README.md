@@ -18,4 +18,9 @@ npm i
 npm start
 ```
 
+```
+projeto template para react com typescript
+```
+
+
 
